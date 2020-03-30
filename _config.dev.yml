@@ -91,10 +91,8 @@ collections:
     permalink: /:collection/:path
     screenshots: /assets/screenshot/logos.jpg
 
-
 include:
   - _pages
-
 
 defaults:
   - scope:
