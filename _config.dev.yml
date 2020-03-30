@@ -106,7 +106,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+      
 kup:
   - Dasar Hukum
   - Umum
