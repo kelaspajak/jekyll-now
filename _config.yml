@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: KelasPajakWithLess
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -37,7 +37,8 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-146778045-2
+googletagmanager: GTM-NVFKM7C
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -47,7 +48,6 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-now"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -84,3 +84,77 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  fitur:
+    output: true
+    permalink: /:collection/:path
+    screenshots: /assets/screenshot/logos.jpg
+
+
+include:
+  - _pages
+
+
+defaults:
+  - scope:
+      path: ""
+      type: fitur
+    values:
+      layout: page
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+kup:
+  - Dasar Hukum
+  - Umum
+  - NPWP dan PKP
+  - SPT
+  - Pembayaran atau Penyetoran
+  - Penagihan Pajak
+  - Keberatan
+  - Banding, Gugatan, dan Peninjauan Kembali
+  - Pembukuan
+  - Pemeriksaan
+  - Sanksi, Penetapan dan Ketetapan Pajak
+  - Restitusi
+  - Imbalan Bunga
+
+pph:
+  - Umum
+  - Subjek Pajak
+  - Penghasilan
+  - Biaya Fiskal
+  - Pencatatan dan Pembukuan
+  - Penghasilan atas Jenis Usaha Tertentu
+  - PPh Pasal 21
+  - PPh Pasal 22
+  - PPh Pasal 23
+  - PPh Final Pasal 4 ayat (2)
+  - PPh Pasal 15
+  - PPh Pasal 19
+  - PPh Pasal 24
+  - PPh Pasal 25
+  - PPh Pasal 26
+  - BUT
+  - Hubungan Istimewa
+  - Fasilitas dibidang PPh
+
+ppn: 
+  - Umum
+  - Subjek PPN
+  - Objek PPN
+  - Bukan Objek PPN
+  - Pemusatan PPN
+  - Faktur Pajak dan Nota Retur
+  - Wajib Pungut (Wapu) PPN
+  - Fasilitas Pembebasan PPN
+  - Fasilitas PPN Tidak Dipungut
+  - PPnBM
+  - Dasar Pengenaan Pajak
+  - Pengkreditan Pajak Masukan
+  - Restitusi PPN
+  - Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+  - Impor BKP
