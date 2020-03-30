@@ -24,7 +24,7 @@ git diff --quiet || {
   if [[ -n "$GH_TOKEN" ]]; then
     REPO=${REPO/https:\/\//https://${GH_TOKEN}@}
   fi
-
+  git push $REPO HEAD:master
   git push $REPO HEAD:master
 }
 echo "==> selesai.........."
