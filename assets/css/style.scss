@@ -1,0 +1,119 @@
+---
+---
+[data-theme="dark"] {
+    --headline: #fffffe;
+    --background: #0f0e17;
+    --paragraph: #a7a9be;
+    --button: #ff8906;
+    --button-text: #fffffe;
+
+    //illustration
+    --stroke: black;
+    --main: #fffffe;
+    --highlight: #ff8906;
+    --secondary: #f25f4c;
+    --tertiary: #e53170;
+    --note: rgba(235, 236, 237, 0.3);
+    --base-accent: #f5a623;
+    --base-light-accent: #fbd469;
+    --base-gradient: linear-gradient(90deg,var(--base-light-accent),var(--base-accent));
+  }
+
+  [data-theme="hero"] {
+    --headline: #020826;
+    --background: #f9f4ef;
+    --paragraph: #716040;
+    --button: #8c7851;
+    --button-text: #fffffe;
+
+    //illustration
+    --stroke: #020826;
+    --main: #fffffe;
+    --highlight: #8c7851;
+    --secondary: #eaddcf;
+    --tertiary: #f25042;
+    --note: rgba(235, 236, 237, 0.3);
+    --base-accent: #f5a623;
+    --base-light-accent: #fbd469;
+    --base-gradient: linear-gradient(90deg,var(--base-light-accent),var(--base-accent));
+  }
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  body::-webkit-scrollbar-track {
+    background: var(--background);        /* color of the tracking area */
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--headline);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid var(--stroke)  /* creates padding around scroll thumb */
+}
+
+  .markdown-body {
+      font-family: Fira Code,monospace;
+      font-size: 16px;  
+  }
+  
+  #menu-toggle:checked + #menu {
+    display: block;
+  }
+
+.max-w-8xl {
+    max-width: 50rem;
+}
+
+.max-w-9xl {
+    max-width: 60rem;
+}
+
+.text-headline-500 {
+    color: var(--headline);
+}
+
+.text-highlight-500 {
+    color: var(--highlight);
+}
+.text-tertiary-500 {
+  color: var(--tertiary);
+}
+
+.font-sans {
+    font-family: 'Lexend Deca', sans-serif !important;
+    -webkit-font-smoothing: subpixel-antialiased;
+    //#594a4e;
+}
+
+.font-work {
+  font-family: 'Work Sans', sans-serif !important;
+}
+
+.font-inter {
+    font-family: Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji !important;
+}
+.hover\:bg-list:hover {
+    background-color: var(--note);
+    transition: background-color 1s ease-in-out;
+    position: relative;
+    left: -1px;
+}
+
+.itemDocument {
+    line-height: 1.3;
+    display: flex;
+    align-items: center;
+}
+
+.bg-navbar {
+    //background-image: var(--base-gradient);
+    //background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    //background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+
+.font-emoji {
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Segoe UI Symbol", "Android Emoji", EmojiSymbols;
+}
+
+.bg-note {
+  background: rgba(235, 236, 237, 0.3)
+}

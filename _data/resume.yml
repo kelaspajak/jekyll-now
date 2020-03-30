@@ -1,0 +1,2932 @@
+data:
+  - id: 1
+    title: Penentuan SPDN dan SPLN
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    status: ya
+  - id: 2
+    title: Subjek Pajak dan Bukan Subjek Pajak
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Subjek Pajak
+  - id: 3
+    title: Sisa Lebih yang Diterima oleh Badan atau Lembaga Nirlaba di Bidang Pendidikan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 4
+    title: Hibah, Bantuan, Sumbangan yang tidak termasuk Objek pajak
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 5
+    title: Beasiswa tidak termasuk Objek Pajak
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 6
+    title: Bantuan atau Santunan yang Dibayarkan oleh Badan Penyelenggara Jaminan Sosial (BPJS)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 7
+    title: Bantuan, Sumbangan, Zakat yang tidak termasuk Objek Pajak
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 8
+    title: Keuntungan karena Pembebasan Utang
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 9
+    title: Hubungan Usaha, Pekerjaan,Kepemilikan atau Penguasaan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 10
+    title: Objek PPh
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 11
+    title: Bukan objek PPh
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 12
+    title: Zakat Atau Sumbangan Keagamaan yang Sifatnya Wajib
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 13
+    title: BIAYA FISKAL (PASAL 6 DAN 9 UU PPH)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 14
+    title: Natura/Kenikmatan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 15
+    title: Biaya Promosi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 16
+    title: Piutang yang Nyata-Nyata Tidak Dapat Ditagih
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 17
+    title: Biaya SDM (deductible/nondeductible, objek pph 21/bukan objek pph 21)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 18
+    title: Biaya Bunga Pinjaman
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 19
+    title: Pajak Daerah dan Retribusi Daerah
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 20
+    title: Biaya Entertainment
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 21
+    title: Sumbangan / Biaya Pembangunan Infrastruktur yang bisa dikurangkan dari penghasilan bruto
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 22
+    title: Pajak Masukan yang Tidak dapat Dikreditkan bisa jadi Pengurang Penghasilan Bruto
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 23
+    title: Biaya Bersama / Join Cost
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 24
+    title: Daftar Rekonsiliasi Fiskal Biaya Usaha
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 25
+    title: Contoh Soal Rekonsiliasi Fiskal + Kunci Jawaban
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 26
+    title: Biaya Penyusutan Fiskal
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 27
+    title: Penyusutan Harta Berwujud
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 28
+    title: Amortisasi Harta Tidak Berwujud
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 29
+    title: Perangkat Lunak (Software) Komputer
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 30
+    title: Kendaraan milik perusahaan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 31
+    title: HP, telepon Seluler, Pager
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 32
+    title: Penyusutan, Amortisasi dalam Bidang Usaha Tertentu (Tanaman Kehutanan, kayu, Tanaman Keras, Ternak)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 33
+    title: Penyusutan Harta Berwujud Bagi Kontraktor Migas
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Biaya Fiskal
+    subtopik: Penyusutan Fiskal
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 34
+    title: Norma Penghitungan Penghasilan Neto
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Pencatatan, Pembukuan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 35
+    title: Tax Haven Country
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Pencatatan, Pembukuan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 36
+    title: Norma Penghitungan Penghasilan Neto sejak tahun pajak 2016
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Pencatatan, Pembukuan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 37
+    title: Joint Operation / JO (Pemecahan Bukti Potong)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 38
+    title: Perlakuan PPh dan PPN atas Leasing ( Sewa Guna Usaha )
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 39
+    title: Perlakuan Perpajakan untuk Pengusaha Panas Bumi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 40
+    title: CV, Firma, Kongsi, Persekutuan, Kontrak Investasi Kolektif (KIK)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 41
+    title: Yayasan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 42
+    title: Usaha Lapangan Golf
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 43
+    title: Perlakuan PPh atas Usaha Reksadana
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 44
+    title: Built Operate and Transfer (BOT) (Bangun Guna Serah)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 45
+    title: Kegiatan Usaha Berbasis Syariah
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 46
+    title: Perusahaan Pelayaran Niaga Nasional
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 47
+    title: Penghitungan PPh Kontraktor Kontrak Kerja Sama Migas
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 48
+    title: Transaksi e-commerse
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 49
+    title: Perlakuan Perpajakan di KAPET (PPh dan PPN)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    subtopik: Perlakuan Perpajakan di KAPET
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 50
+    title: Untuk Pengusaha yang Berdomisili di dalam wilayah KAPET
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    subtopik: Perlakuan Perpajakan di KAPET
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 51
+    title: Untuk Pengusaha yang Tidak Berdomisili di dalam wilayah KAPET
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    subtopik: Perlakuan Perpajakan di KAPET
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 52
+    title: Kawasan Pengembangan Ekonomi Terpadu (KAPET) (yang ditetapkan sebagai Kawasan Berikat)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    subtopik: Perlakuan Perpajakan di KAPET
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 53
+    title: Daftar Wilayah KAPET
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: Penghasilan atas Jenis Usaha Tertentu
+    subtopik: Perlakuan Perpajakan di KAPET
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 54
+    title: Tabel Tarif PPh Pasal 21
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 55
+    title: Jamsostek (JKK, JHT, JKM, JPK & JHT) dan Premi asuransi lainnya
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 56
+    title: PPh 21 Ditanggung Pemerintah
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 57
+    title: Tanda Tangan Stempel & Bukti Potong Online PPh 21
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 58
+    title: Pesangon, Uang Manfaat Pensiun, THT dan JHT
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 59
+    title: Penghasilan Tidak Kena Pajak (PTKP)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 60
+    title: Biaya Jabatan dan Biaya Pensiun
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 61
+    title: Subjek dan Bukan Subjek PPh Pasal 21/26
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 62
+    title: Objek dan Bukan Objek PPh Pasal 21/26
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 63
+    title: Pemotong dan Bukan Pemotong PPh Pasal 21/26
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 64
+    title: SKB PPh Potput (SKB PPh 21, 22, 22 impor, 23)
+    url: https://docs.google.com/document/d/13QTt1sy6eX0tpCvKwuFBsXjidG428RA8AmO-HX-I4XY/edit?usp=sharing
+    active: ya
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 65
+    title: PPh 21 bagi Pejabat Negara, PNS, Anggota TNI, POLRI, dan Pensiunannya
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 66
+    title: Unsur Penambah dan Pengurang Penghasilan dalam Penghitungan PPh Pasal 21
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 67
+    title: Pajak Penghasilan Pasal 21 atas Penghasilan Pegawai dari Pemberi Kerja yang Memenuhi Kriteria Tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Ketentuan Terkait PPh 21
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 68
+    title: PPh Pasal 21 Atas Bonus dan Tunjangan Hari Raya (THR)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sebelum 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 69
+    title: PPh Pasal 21 Pegawai Tetap dan Penerima Pensiun Berkala
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sebelum 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 70
+    title: PPh Pasal 21 Pegawai Tidak Tetap
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sebelum 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 71
+    title: PPh 21 atas mantan pegawai, komisaris yang bukan pegawai tetap, penarikan dana pensiun oleh pegawai
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sebelum 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 72
+    title: PPh Pasal 21 Atas Bonus dan Tunjangan Hari Raya (THR)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 73
+    title: Penghitungan PPh 21 Pegawai Tetap dan Penerima Pensiun Berkala
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 74
+    title: PPh Pasal 21 Pegawai Tidak Tetap
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 75
+    title: PPh 21 atas mantan pegawai, komisaris yang bukan pegawai tetap, penarikan dana pensiun oleh pegawai
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak 1 Januari 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 76
+    title: PPh Pasal 21 Pegawai Tetap dan Penerima Pensiun Berkala
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak tahun pajak 2015
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 77
+    title: PPh Pasal 21 Pegawai Tidak Tetap
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak tahun pajak 2015
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 78
+    title: PPh Pasal 21 Atas Bonus dan Tunjangan Hari Raya (THR)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh 21 Sejak tahun pajak 2015
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 79
+    title: PPh Pasal 21 Pegawai Tetap dan Pemberi Pensiun
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh Pasal 21 sejak Tahun Pajak 2016
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 80
+    title: PPh Pasal 21 Pegawai Tidak Tetap
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh Pasal 21 sejak Tahun Pajak 2016
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 81
+    title: PPh Pasal 21 Atas Bonus dan Tunjangan Hari Raya (THR)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 21
+    subtopik: Penghitungan PPh Pasal 21 sejak Tahun Pajak 2016
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 82
+    title: Tabel Tarif PPh Pasal 22
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 83
+    title: PPh Pasal 22
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 84
+    title: PPh Pasal 22 yang Dipungut Bank Devisa dan DJBC
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 85
+    title: PPh Pasal 22 Bendaharawan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 86
+    title: PPh Pasal 22 Produsen atau importir bahan bakar minyak, bahan bakar gas, dan pelumas
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 87
+    title: PPh Pasal 22 Industri Tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 88
+    title: PPh Pasal 22 Industri atau eksportir sektor kehutanan, perkebunan, pertanian, peternakan, dan perikanan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 89
+    title: PPh Pasal 22 Penjualan Barang yang Tergolong Sangat Mewah
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 90
+    title: SKB PPh Potput (SKB PPh 21, 22, 22 impor, 23)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 91
+    title: PPh Pasal 22 atas Badan Usaha Tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 92
+    title: PPh Pasal 22 Industri atau badan usaha komoditas tambang batubara, mineral logam, dan mineral bukan logam
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 22
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 93
+    title: Dividen
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 94
+    title: Bunga
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 95
+    title: Royalti
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 96
+    title: Hadiah, Penghargaan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 97
+    title: Sewa dan Jasa
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 98
+    title: Tabel Tarif PPh Pasal 23
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 99
+    title: PPh Pasal 23
+    sudah: 
+  - id: 100
+    title: SKB PPh Potput (SKB PPh 21, 22, 22 impor, 23)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 101
+    title: Resume S-653/PJ.032/2010 Penegasan Perlakuan PPh Pasal 23 Usaha Retail
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 102
+    title: Stempel Tanda tangan pada Bukti Potong PPh 23/26 atas dividen
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 23
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 103
+    title: SUN (Obligasi Negara, SPN) dan SBSN
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 104
+    title: PPh Final atas Pengalihan hak atas Tanah dan/atau bangunan, SKB PPhTB
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 105
+    title: PPh Final atas Persewaan Tanah dan/atau Bangunan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 106
+    title: PPh Final atas Jasa Konstruksi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 107
+    title: PPh Final atas Penjualan Saham di Bursa Efek
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 108
+    title: Tabel Tarif PPh Pasal 4 (2)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 109
+    title: PPh Final atas Dividen yang diterima Orang Pribadi (OP)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 110
+    title: PPh Final atas Bunga Obligasi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 111
+    title: PPh Final atas Bunga deposito dan tabungan serta diskonto Sertifikat Bank Indonesia
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 112
+    title: PPh Final atas Bunga simpanan Koperasi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 113
+    title: PPh Final atas Hadiah Undian
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 114
+    title: Stempel Tanda Tangan pada Bukti Potong PPh atas Bunga Deposito, Tabungan, Jasa Giro, dan Diskonto SBI
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 115
+    title: Stempel Tanda Tangan pada Bukti Potong PPh atas Pembayaran Bunga Kepada Nasabah SUN-ORI
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 116
+    title: SKB terkait PP 46 Tahun 2013
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 117
+    title: PPh Final atas Penghasilan Lain Kontraktor Dari Pengalihan Participating Interest
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 118
+    title: PPh Final atas Penghasilan dari Pengalihan Real Estat dalam Skema Kontrak Investasi Kolektif Tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 119
+    title: PPh Final atas penghasilan WP yang memiliki peredaran bruto tertentu PP 46 Tahun 2013 (sudah tidak berlaku sejak 1 Juli 2018)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 120
+    title: PPh Final atas penghasilan WP yang memiliki peredaran bruto tertentu PP 23 Tahun 2018
+    url: 
+    sudah: ya
+  - id: 121
+    title: Validasi SSB dan SSP
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Final Pasal 4 Ayat (2)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 122
+    title: PPh Pasal 15 atas PELAYARAN DALAM NEGERI
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 123
+    title: PPh Pasal 15 atas Pelayaran/Penerbangan Luar Negeri
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 124
+    title: PPh Pasal 15 atas Penerbangan Dalam Negeri
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 125
+    title: Tabel Tarif PPh Pasal 15
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 126
+    title: PPh Pasal 15 atas Kantor Perwakilan Dagang Asing (representative office/liaison office) di Indonesia
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 127
+    title: PPh Pasal 15 atas WP yang melakukan kegiatan usaha jasa maklon internasional di bidang produksi mainan anak-anak
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 15
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 128
+    title: PPh PASAL 19 ATAS Revaluasi (penilaian kembali aktiva tetap)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 19
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 129
+    title: Revaluasi aktiva tetap untuk tahun 2015 dan 2016
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 19
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 130
+    title: PPH PASAL 24 ATAS penghasilan WPDN dari Luar Negeri
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 24
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 131
+    title: PPh Pasal 25 atas Orang Pribadi Pengusaha Tertentu (OPPT)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 132
+    title: Pelaporan SPT Masa PPh 25
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 133
+    title: Fiskal Luar Negeri
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 134
+    title: Cara Menghitung PPh Pasal 25 untuk WP BARU
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 135
+    title: Cara menghitung PPh Pasal 25 untuk WP Bank, WP SGU dengan Hak Opsi
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 136
+    title: Cara Menghitung PPh Pasal 25 untuk WP BUMN, BUMD, WP Masuk Bursa
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 137
+    title: pengurangan besarnya PPh pasal 25 bagi wajib pajak industri tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 138
+    title: Dalam hal WP berhak atas kompensasi kerugian dan Menerima Penghasilan Tidak Teratur
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 139
+    title: Dalam hal WP melaporkan SPT Tahunan PPh Tahun Pajak Lalu Lewat Batas Waktu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 140
+    title: Dalam hal WP diberikan perpanjangan jangka waktu penyampaian SPT Tahunan PPh
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 141
+    title: Dalam hal WP membetulkan sendiri SPT Tahunan PPh
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 142
+    title: Dalam hal WP mengalami perubahan usaha atau kegiatan WP
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 143
+    title: Penerapan P3B, DGT dan SKD
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 144
+    title: Surat Keterangan Domisili Bagi SPDN Indonesia Dalam Rangka P3B
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 145
+    title: Tabel Tarif PPh Pasal 26
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 146
+    title: PPh Pasal 26 atas Penjualan Saham yang Dilakukan oleh WPLN
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 147
+    title: Premi Asuransi dan Reasuransi yang Dibayar kepada Perusahaan Asuransi di Luar Negeri
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 148
+    title: Perlakuan PPh Vs Perjanjian Internasional
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 149
+    title: Surat Keterangan Domisili (DGT 6 dan DGT 7) bagi SPDN Indonesia dalam rangka P3B (Ketentuan Sebelum 12 Mei 2017)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 150
+    title: DGT 1 dan DGT 2 (Ketentuan ini sudah dicabut sejak 1 Agustus 2017)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 151
+    title: Pencegahan Penyalahgunaan P3B (Ketentuan ini dicabut sejak 1 Agustus 2017)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 152
+    title: DGT 3, DGT 4, dan DGT 5 (Ketentuan ini Sudah dicabut sejak 30 Mei 2013)
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 153
+    title: BUT dalam UU PPh
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 154
+    title: BUT dalam P3B
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 155
+    title: Objek Pajak BUT dan Branch Profit Tax
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 156
+    title: Biaya BUT yang boleh / tidak boleh dikurangkan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 157
+    title: Terjadinya Hubungan Istimewa
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 158
+    title: Penurunan tarif PPh Bagi WPDN berbentuk Perseroan Terbuka
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 159
+    title: Fasilitas PPh untuk Penanaman Modal di Bidang Usaha Tertentu dan/atau Daerah tertentu
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 160
+    title: Fasilitas Pengurangan Pajak Penghasilan Badan
+    url: 
+    active: "tidak"
+    fitur: resume
+    category: pph
+    topik: PPh Pasal 25
+    subtopik: Cara Menghitung PPh Pasal 25 dalam hal-hal Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 1
+    title: Mekanisme PPN Indonesia
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 2
+    title: Bagaimanakah mekanisme pemungutan PPN?
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 3
+    title: Lain - lain
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 4
+    title: UU PPN dan Resume
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 5
+    title: Tanggung Jawab Renteng
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 6
+    title: Branches PP 10 Tahun 2012
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Umum
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 7
+    title: Subjek PPN (PKP dan Non PKP)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Subjek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 8
+    title: Tempat Terutangnya PPN (KPP Tempat WP Mengajukan Permohonan PKP)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Subjek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 9
+    title: Pemakaian Sendiri dan Pemberian Cuma-cuma
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 10
+    title: Kegiatan Membangun Sendiri (KMS) (Pasal 16C UU PPN)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 11
+    title: Pemanfaatan BKP tidak Berwujud atau JKP dari Luar Daerah Pabean
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 12
+    title: Ekspor JKP dan/atau BKP Tidak Berwujud
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 13
+    title: Aktiva yang Menurut Tujuan Semula Tidak Untuk Diperjualbelikan (Pasal 16D)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 14
+    title: penyerahan BKP/JKP di dalam Daerah Pabean yang dilakukan oleh Pengusaha (Ps. 4 ayat (1) huruf a & c)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 15
+    title: PPN atas Penyerahan Jasa Jalan Tol
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 16
+    title: Penyerahan hak atas BKP karena suatu Perjanjian
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    subtopik: Yang Termasuk Ke dalam Pengertian Penyerahan BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 17
+    title: pengalihan BKP karena suatu perjanjian sewa beli dan/atau perjanjian sewa guna usaha (leasing)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    subtopik: Yang Termasuk Ke dalam Pengertian Penyerahan BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 18
+    title: penyerahan BKP kepada pedagang perantara (komisioner), melalui juru lelang, makelar
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    subtopik: Yang Termasuk Ke dalam Pengertian Penyerahan BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 19
+    title: Penyerahan BKP secara Konsinyasi
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    subtopik: Yang Termasuk Ke dalam Pengertian Penyerahan BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 20
+    title: Yang Termasuk Pengertian Penyerahan BKP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Objek PPN (Pasal 4, Pasal 16C, Pasal 16D)
+    subtopik: Yang Termasuk Ke dalam Pengertian Penyerahan BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 21
+    title: Perbandingan Ketentuan Bukan Objek PPN Sebelum dan Sesudah berlakunya UU 42 Tahun 2009
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 22
+    title: Jasa Angkutan Umum
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 23
+    title: Jasa Perhotelan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 24
+    title: Bukan Objek PPN (Bukan BKP dan Bukan JKP) SEBELUM 1 April 2010
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 25
+    title: Bukan Objek PPN (Bukan BKP dan Bukan JKP) SEJAK 1 April 2010
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 26
+    title: Jasa tenaga kerja
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 27
+    title: Jasa Penyediaan Tempat Parkir
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 28
+    title: jasa yang disediakan oleh Pemerintah dalam rangka menjalankan pemerintahan secara umum
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 29
+    title: Jasa Penyiaran yang Tidak Bersifat Iklan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 30
+    title: Jasa Pendidikan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 31
+    title: Jasa Boga atau Katering
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 32
+    title: Jasa Kesenian dan Hiburan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Bukan Objek PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 33
+    title: Pemusatan tempat terutang PPN (lama) (Ketentuan sebelum 1 April 2010)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pemusatan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 34
+    title: Pemusatan tempat terutang PPN (Ketentuan Sejak 1 April 2010)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pemusatan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 35
+    title: Pemusatan Tempat PPN terutang (ketentuan sejak 1 Januari 2013 (Masih menggunakan PER-19/PJ/2010))
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pemusatan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 36
+    title: FP sebelum 1 April Vs setelah 1 April 2010
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 37
+    title: Nota Retur dan Nota Pembatalan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 38
+    title: Dokumen Tertentu yang Dipersamakan dengan Faktur Pajak
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 39
+    title: FP bagi PKP Toko Retail (VAT Refund for tourist)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 40
+    title: FP PKP PE
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 41
+    title: Larangan Penggunaan Metode Q.Q Pada FP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 42
+    title: Saat Penyerahan BKP/JKP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 43
+    title: Kode dan Nomor Seri FP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 44
+    title: FP Pengganti
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 45
+    title: FP Hilang
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 46
+    title: FP Batal
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 47
+    title: saat lain sebagai saat pembuatan faktur pajak atas penyerahan BKP dengan karakteristik tertentu
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 48
+    title: FP Tidak Lengkap (Ketentuan Sejak 1 April 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 49
+    title: Faktur Pajak sejak 1 Juli 2014
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 50
+    title: Faktur Pajak elektronik (e-Faktur)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 51
+    title: Sertifikat Elektronik
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 52
+    title: Yang baru tentang FP Menurut PER-24/PJ/2012 (sudah ada perubahan)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 53
+    title: FP sejak 1 April 2013 (sudah tidak berlaku)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Terbaru
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 54
+    title: FP Pengganti (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 55
+    title: Pembatalan FP (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 56
+    title: FP (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 57
+    title: Kode dan Nomor Seri FP (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 58
+    title: FP Hilang (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 59
+    title: FP Cacat (Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sejak 1 April 2010 s/d 31 Maret 2013
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 60
+    title: Tata Cara Pembuatan Nota Retur (berlaku mulai 1 Januari 1995 sampai 31 Maret 2010)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Faktur Pajak dan Nota Retur
+    subtopik: Ketentuan Sebelum 1 April 2010
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 61
+    title: Wajib Pungut (WAPU) PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Wajib Pungut (Wapu) PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 62
+    title: Bendaharawan Pemerintah dan KPKN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Wajib Pungut (Wapu) PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 63
+    title: Kontraktor Kontrak Kerja Sama
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Wajib Pungut (Wapu) PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 64
+    title: Badan Usaha Milik Negara
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Wajib Pungut (Wapu) PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 65
+    title: Badan Usaha Tertentu (Mulai tanggal 1 April 2015)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Wajib Pungut (Wapu) PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 66
+    title: Jenis-jenis Fasilitas Pembebasan PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 67
+    title: Pembebasan PPN kepada perwakilan Negara asing dan Badan Internasional serta Pejabatnya
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 68
+    title: Pembebasan PPN atas penyerahan jasa kebandarudaraan tertentu
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 69
+    title: Pembebasan PPN atas Penyerahan Air Bersih
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 70
+    title: Pembebasan PPN atas Penyerahan Jasa Ke Pelabuhan Tertentu
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 71
+    title: BKP Strategis bebas PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP strategis
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 72
+    title: Mesin dan Peralatan Pabrik
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP strategis
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 73
+    title: RUSUNAMI
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP strategis
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 74
+    title: BKP Strategis Bebas PPN (Ketentuan Baru)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP strategis
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 75
+    title: BKP dan atau JKP Tertentu Bebas PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP/JKP Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 76
+    title: Batasan Buku Pelajaran Umum, kitab suci dan buku-buku pelajaran agama yang Mendapatkan Pembebasan PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP/JKP Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 77
+    title: Batas Rumah Sederhana, RSS, dll yang Memperoleh Pembebasan PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP/JKP Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 78
+    title: JKP Tertentu yang dibebaskan PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas Pembebasan PPN
+    subtopik: BKP/JKP Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 79
+    title: Jenis-Jenis PPN tidak dipungut
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 80
+    title: Kawasan Berikat
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 81
+    title: BKP Tertentu Bersifat Strategis Yang Tidak Dipungut PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 82
+    title: Kawasan Pengembangan Ekonomi Terpadu (KAPET) (yang ditetapkan sebagai Kawasan Berikat)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 83
+    title: Kemudahan Impor untuk Tujuan Ekspor (KITE)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 84
+    title: Proyek pemerintah yang dibiayai dengan hibah atau dana pinjaman Luar Negeri
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 85
+    title: Toko Bebas Bea
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 86
+    title: PPN Tidak Dipungut atas Sebagian impor BKP yang dibebaskan dari pungutan bea masuk
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 87
+    title: Alat Angkutan Tertentu dan JKP terkait Yang impor/penyerahannya Tidak Dipungut PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 88
+    title: penyerahan minyak goreng kemasan sederhana
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: PPN Ditanggung Pemerintah
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 89
+    title: Penyerahan Minyak Goreng Sawit Curah
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: PPN Ditanggung Pemerintah
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 90
+    title: Impor Barang Untuk Kegiatan Usaha Eksplorasi Hulu Minyak dan Gas Bumi Serta Panas Bumi
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: PPN Ditanggung Pemerintah
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 91
+    title: PPN DTP atas subsidi BBM Jenis Tertentu dan LPG Tabung 3 kg
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: PPN Ditanggung Pemerintah
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 92
+    title: Kawasan Bebas
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: Kawasan Bebas PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 93
+    title: I.1 Antara Kawasan Bebas dengan Luar Daerah Pabean (Terkait BKP berwujud)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: Kawasan Bebas PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 94
+    title: I.2 Antara Kawasan Bebas dengan TLDDP (Terkait BKP berwujud)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: Kawasan Bebas PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 95
+    title: I.3 Antara Kawasan Bebas dengan TPB atau KEK (Terkait BKP Berwujud)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: Kawasan Bebas PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 96
+    title: I.4 Perlakuan PPN atas Penyerahan atau Perolehan/Pemanfaatan BKP TB dan Penyerahan/Perolehan JKP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Fasilitas PPN Tidak Dipungut
+    subtopik: Kawasan Bebas PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 97
+    title: SKB PPnBM atas kendaraan bermotor
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 98
+    title: PPnBM
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 99
+    title: PPnBM untuk Golongan Selain Kendaraan Bermotor
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 100
+    title: PPnBM atas Kendaraan Bermotor sebelum 23 Mei 2013
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 101
+    title: Tatacara Pengajuan Pengembalian PPnBM atas Kendaraan Bermotor
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 102
+    title: PPnBM atas Kendaraan Bermotor Sejak 23 Mei 2013
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: PPnBM
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 103
+    title: Yang Menggunakan DPP Nilai Lain
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Dasar Pengenaan Pajak
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 104
+    title: Dasar Pengenaan Pajak (DPP)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Dasar Pengenaan Pajak
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 105
+    title: Pedoman Pengkreditan PM Bagi PKP yang peredaran Usahanya Tidak Melebihi Jumlah Tertentu
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pengkreditan Pajak Masukan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 106
+    title: Pedoman Pengkreditan PM Bagi PKP yang Melakukan Penyerahan Terutang danTidak Terutang/dibebaskan PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pengkreditan Pajak Masukan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 107
+    title: Pedoman Pengkreditan PM bagi PKP Usaha Tertentu (kendaraan bekas)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pengkreditan Pajak Masukan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 108
+    title: Pedoman Pengkreditan PM Sebelum 1 April 2010
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pengkreditan Pajak Masukan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 109
+    title: Jenis Pajak Masukan yang Tidak Bisa Dikreditkan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Pengkreditan Pajak Masukan
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 110
+    title: Tata Cara Restitusi PPN
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Restitusi PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 111
+    title: Penetapan PKP Resiko Rendah
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Restitusi PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 112
+    title: Pembayaran Kembali PM Bagi PKP yang Gagal Berproduksi
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Restitusi PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 113
+    title: Penetapan PKP Resiko Rendah (Ketentuan Lama)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Restitusi PPN
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 114
+    title: Pengusaha Emas Perhiasan
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 115
+    title: VAT Refund bagi Turis Asing
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 116
+    title: Penebusan Stiker Lunas PPN untuk Media Rekaman Suara/ Gambar
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 117
+    title: PPN atas penyerahan Obat oleh Apotik atau instalasi farmasi (kamar obat) Rumah Sakit
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 118
+    title: PPN atas Insentif/Bonus dari main dealer kepada dealer/distributor
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 119
+    title: Pengenaan PPN atas Produksi Hasil Tembakau (Rokok, dsb)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 120
+    title: Kontraktor Perjanjian Karya Pengusahaan Pertambangan Batubara Generasi I (Pajak penjualan dan PPN)
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 121
+    title: PPN atas Penyerahan Pupuk Tertentu
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Perlakuan PPN atas Jenis Barang dan Jasa Tertentu
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 122
+    title: Impor BKP
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Impor BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 123
+    title: Impor Sementara
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Impor BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019
+  - id: 124
+    title: Impor Atas Dasar Inden
+    url: https://drive.google.com/open?id=1pxSdzbMHea2r8gSET1MzfF9NjYq5R-qqMtHUPXcH64w
+    active: "tidak"
+    fitur: resume
+    category: ppn
+    topik: Impor BKP
+    icon: far fa-file-word
+    type: word
+    tgl: 11 Desember 2019

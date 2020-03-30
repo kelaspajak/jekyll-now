@@ -1,0 +1,9 @@
+{% capture id %}{{ include.content }}{% endcapture %}
+<ul class="list-none mb-4">
+    {%- assign docs_by_category = site.fitur | where: "category", id | group_by: "topik" -%}
+    {%- for cat in docs_by_category -%}
+    <li class="hover:bg-list py-1 rounded focus:outline-none focus:underline">
+        <a href="/f/{{ include.content}}/#{{ cat.name }}" class="no-underline border-0 border-b border-dotted border-indigo-800">{{ forloop.index0 | plus: 1 }}. <span class="ml-2">{{- cat.name -}}</span></a> 
+    </li>
+    {%- endfor -%}
+</ul>

@@ -1,0 +1,22 @@
+  
+#! /usr/bin/env bash
+
+set -e
+
+repo_name=$(cat .git/description)
+
+if [ "$repo_name" != "jekyll-now" ]; then
+  echo "==> Reinitializing Git repository"
+  rm -rf .git
+
+  git init
+
+  echo "jekyll-now" > .git/description
+  cat << EOF > .gitignore
+_site
+.sass-cache
+.DS_STORE
+.jekyll-metadata
+node_modules
+EOF
+fi

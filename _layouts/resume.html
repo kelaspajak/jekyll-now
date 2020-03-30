@@ -1,0 +1,45 @@
+---
+layout: default
+---
+    {% include hero.html %}
+          
+    {% capture dataid %}{{ page.dataid }}{% endcapture %}
+    {% assign Category = site.data[dataid] | group_by: "Category" %}
+    {% for sitesort in site[dataid] %}
+    {% assign cat = Category | where: 'name', sitesort | first %}
+    <div class="my-12">
+      <h3 class="flex items-center mt-2 mb-4 text-2xl leading-8 font-bold" id="{{ cat.name }}">
+        {{ forloop.index0 | plus: 1 }}. <span class="ml-2">{{ cat.name }}</span>
+      </h3>
+      <ul class="list-none truncate">
+        {% for item in cat.items %}            
+        {% if item.Topic != nil %}
+        {% else %}
+          {% include listResume.html %}
+        {% endif %}
+        {% endfor %}
+      </ul>
+      
+      {% capture categoryName %}{{cat.name}}{% endcapture %}
+      {% assign topics = site.data[dataid] | where: "Category", categoryName | group_by: 'Topic' %}
+      {% for topic in topics %}
+      {% if topic.name.size > 0 %}
+
+      <h4 class="text-lg flex items-center font-semibold mt-6 text-gray-900">
+        {{ topic.name }}
+      </h4>
+      <ul class="list-none">
+        {% capture subtopik1 %}{{topic.name}}{% endcapture %}
+        {% assign titles = site.data[dataid] | where: "Topic", subtopik1 | sort: "P#" %}
+        {% for item in titles %}
+        {% include listResume.html content="pl-4"%}
+        {% endfor %}
+      </ul>
+      {% else %}
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endfor %}
+
+
+

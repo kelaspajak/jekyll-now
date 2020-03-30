@@ -1,0 +1,6 @@
+{%- capture content -%}{{- include.content -}}{%- endcapture -%}
+<li class="{{ include.content }}{% if item.Extension =="1"%} bg-green-100{% endif %} truncate hover:bg-list py-1 mt-1 rounded focus:outline-none focus:underline">
+    <a href="{{ item.url }}" class="no-underline truncate border-0 border-b border-dotted border-indigo-800" target="_blank" id="{{ item.Document }}">
+        {{ item.Document }}
+    </a>                  
+</li>

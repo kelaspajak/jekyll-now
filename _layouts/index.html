@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="py-4 sm:py-12">
+  <div class="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
+       
+    {% assign menus = site.data.navigation.docs %}
+    {% for menu in menus %}
+    <div>
+      <div class="pb-0">
+        <div class="h-3"></div>
+      </div>
+      <h3 class="flex items-center my-3 text-2xl leading-8 font-semibold tracking-tight font-display text-headline-500 sm:text-3xl sm:leading-9" id="{{ cat.name }}">
+        <a href="{{ menu.url }}" class="no-underline">{{ menu.title }}</a>
+      </h3>
+      <div class="mt-6">
+        <div class="flex content-center mb-3 border p-4 rounded-sm bg-note border-gray-200">
+          <div>
+            <span class="font-emoji mr-2">{{ menu.emoji }}</span>
+          </div>
+            <div>{{ menu.description }}</div>
+        </div>
+      </div>
+      {% if menu.title == "Resume" %}
+      <ul class="list-none mb-4">
+          {% for childmenu in menu.children %}
+          <li class="hover:bg-list py-1 rounded focus:outline-none focus:underline">
+              <a href="{{ childmenu.url }}" class="no-underline">{{ childmenu.title }} <span style="font-weight:600 mr-2">↓</span> </a>               
+          </li>
+          {% endfor %}
+      </ul>
+      {% elsif menu.title =="Aspek Pajak Industri"%}
+      {% include list.html content="aspekpajak" %}
+      {% elsif menu.title =="Lain-lain" %}
+      {% include list.html content="lainlain" %}
+
+      {% else %}
+      <ul class="list-none mb-8">
+          <li class="garisbawah hover:bg-list py-1 mt-1 rounded focus:outline-none focus:underline">
+              <a href="{{ menu.url }}" class="flex no-underline"> 
+                  👉 Link to trello
+              </a>               
+          </li>
+      </ul>
+      {% endif %}
+      
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
